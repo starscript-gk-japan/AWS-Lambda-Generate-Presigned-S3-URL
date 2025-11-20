@@ -3,7 +3,6 @@
 This project demonstrates an AWS Lambda function that generates a presigned URL for an S3 object. The URL allows temporary access to download a file (valid for 24 hours).
 
 ## Project Structure
-
 project-root/
 ├─ README.md
 ├─ lambda/
